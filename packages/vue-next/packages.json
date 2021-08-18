@@ -1,0 +1,23 @@
+{
+  "name": "@alexigasse/eslint-config-vue-next",
+  "version": "0.1.1",
+  "author": "Alexi Gasse <alexi.gasse@gmail.com> (https://github.com/alexigasse)",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@alexigasse/eslint-config": "^0.1.1",
+    "eslint-plugin-vue": "7.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
