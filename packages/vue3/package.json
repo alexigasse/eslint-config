@@ -1,6 +1,6 @@
 {
   "name": "@alexigasse/eslint-config-vue3",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Alexi Gasse <alexi.gasse@gmail.com> (https://github.com/alexigasse)",
   "license": "MIT",
   "main": "index.js",
