@@ -1,0 +1,17 @@
+{
+  "name": "@alexigasse/eslint-config-monorepo",
+  "version": "0.1.0",
+  "author": "Alexi Gasse <alexi.gasse@gmail.com> (https://github.com/alexigasse)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "lint": "npx eslint --ext .js,.json,.vue --fix .",
+    "release": "lerna publish --conventional-commits"
+  },
+  "devDependencies": {
+    "@alexigasse/eslint-config": "workspace:*",
+    "eslint": "^7.30.0",
+    "lerna": "^4.0.0"
+  }
+}
