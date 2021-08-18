@@ -1,5 +1,5 @@
 {
-  "name": "@alexigasse/eslint-config-vue-next",
+  "name": "@alexigasse/eslint-config-vue3",
   "version": "0.1.1",
   "author": "Alexi Gasse <alexi.gasse@gmail.com> (https://github.com/alexigasse)",
   "license": "MIT",
