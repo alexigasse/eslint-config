@@ -1,6 +1,6 @@
 {
   "name": "@alexigasse/eslint-config-nuxt",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Alexi Gasse <alexi.gasse@gmail.com> (https://github.com/alexigasse)",
   "license": "MIT",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@alexigasse/eslint-config-vue": "^0.2.0",
+    "@alexigasse/eslint-config-vue": "^0.2.2",
     "eslint-plugin-nuxt": "^2.0.0"
   },
   "devDependencies": {
