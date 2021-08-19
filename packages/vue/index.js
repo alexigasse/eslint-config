@@ -56,7 +56,7 @@ module.exports = {
     '@alexigasse/eslint-config',
     'plugin:vue/recommended'
   ],
-  plugin: ['vue'],
+  plugins: ['vue'],
   rules: {
     'vue/component-name-in-template-casing': ['error', 'kebab-case'],
     'vue/max-attributes-per-line': ['warn', { singleline: 5 }],
